@@ -1,0 +1,5 @@
+com\packt\cookbook\util\Resources.class
+com\packt\cookbook\model\Member.class
+com\packt\cookbook\data\MemberListProducer.class
+com\packt\cookbook\data\MemberRepository.class
+com\packt\cookbook\service\MemberRegistration.class

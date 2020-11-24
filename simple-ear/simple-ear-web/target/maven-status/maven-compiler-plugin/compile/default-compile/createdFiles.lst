@@ -1,0 +1,4 @@
+com\packt\cookbook\util\WebResources.class
+com\packt\cookbook\controller\MemberController.class
+com\packt\cookbook\rest\MemberResourceRESTService.class
+com\packt\cookbook\rest\JaxRsActivator.class
