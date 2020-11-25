@@ -24,5 +24,8 @@
 <h1 style="background-color:hsl(0, 40%, 50%);">hsl(0, 40%, 50%)</h1>
 <h1 style="background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%)</h1>
 <h1 style="background-color:hsl(0, 0%, 50%);">hsl(0, 0%, 50%)</h1>
+
+<h2>HTML Image</h2>
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
 </body>
 </html>
