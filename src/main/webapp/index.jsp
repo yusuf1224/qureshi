@@ -18,6 +18,11 @@
 <h1 style="background-color:SlateBlue;">SlateBlue</h1>
 <h1 style="background-color:Violet;">Violet</h1>
 <h1 style="background-color:LightGray;">LightGray</h1>
-<p style="background-color:Violet;">See You Again...</p>
+<h1 style="background-color:hsl(0, 100%, 50%);">hsl(0, 100%, 50%)</h1>
+<h1 style="background-color:hsl(0, 80%, 50%);">hsl(0, 80%, 50%)</h1>
+<h1 style="background-color:hsl(0, 60%, 50%);">hsl(0, 60%, 50%)</h1>
+<h1 style="background-color:hsl(0, 40%, 50%);">hsl(0, 40%, 50%)</h1>
+<h1 style="background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%)</h1>
+<h1 style="background-color:hsl(0, 0%, 50%);">hsl(0, 0%, 50%)</h1>
 </body>
 </html>
