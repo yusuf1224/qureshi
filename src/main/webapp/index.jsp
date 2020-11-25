@@ -5,6 +5,6 @@
 <h4>Hello Kurnool</h4>
 <h5>Hello Kothapeta</h5>
 <h1>Git+Git-hub+Jenkins+Tomcat Integration Success</h1>
-<h1>Timpe Rehan</h1>
+<h1>Timpe Rehu</h1>
 </body>
 </html>
