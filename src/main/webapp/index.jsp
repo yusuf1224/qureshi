@@ -24,16 +24,6 @@
 <h1 style="background-color:hsl(0, 40%, 50%);">hsl(0, 40%, 50%)</h1>
 <h1 style="background-color:hsl(0, 20%, 50%);">hsl(0, 20%, 50%)</h1>
 <h1 style="background-color:hsl(0, 0%, 50%);">hsl(0, 0%, 50%)</h1>
-<h2>Image Maps</h2>
-<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
-
-<img src="workplace.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
-
-<map name="workmap">
-  <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="phone.htm">
-  <area shape="circle" coords="337,300,44" alt="Cup of coffee" href="coffee.htm">
-</map>
-
+<body style="background-color:powderblue;">
 </body>
 </html>
