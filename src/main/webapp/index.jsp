@@ -9,5 +9,7 @@
 <h1>Bundale Bakh</h1>
 <h1>Bundale Bakh --------</h1>
 <h1 style="background-color:MediumSeaGreen;">YUSUF KATIKE</h1>
+<h1 style="background-color:DodgerBlue;">Hello World</h1>
+<p style="background-color:Tomato;">Lorem ipsum...</p>
 </body>
 </html>
